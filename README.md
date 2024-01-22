@@ -1,4 +1,4 @@
-# Bioinformatica
+# Bioinformática
 
 ## Descrição dos dados 
 
