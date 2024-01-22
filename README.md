@@ -1,6 +1,6 @@
 # Bioinformatica
 
-##Descrição dos dados 
+## Descrição dos dados 
 
 O dataset GDS4758 apresenta dados relativos à expressão genética em cérebros humanos post-mortem doados para o estudo Hisayama. Este estudo teve como objetivo  perceber de que forma os mecanismos moleculares inerentes à doença Diabetes Mellitus (DM) podem aumentar o risco de obtenção de demência, incluindo a doença do Alzheimer. 
 
@@ -8,13 +8,13 @@ Desta forma, o grupo tem como objetivo utilizar técnicas de machine learning pa
 
 
 
-###Material Suplementar:
+### Material Suplementar:
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4128707/ 
 
 
 
-###Datasets:
+### Datasets:
 
 https://www.ncbi.nlm.nih.gov/sites/GDSbrowser?acc=GDS4758
 
