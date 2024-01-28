@@ -7,14 +7,16 @@ O dataset GDS4758 apresenta dados relativos à expressão genética em cérebros
 Desta forma, o grupo tem como objetivo utilizar técnicas de machine learning para prever o desenvolvimento, ou não, da doença do Alzheimer, com base nos valores da expressão genética dos diferentes pacientes. 
 
 
-
 ### Material Suplementar:
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4128707/ 
-
 
 
 ### Datasets:
 
 https://www.ncbi.nlm.nih.gov/sites/GDSbrowser?acc=GDS4758
 
+
+## Notas:
+
+• A célula 43 do notebook necessita de ser corrida individualmente para aplicar o "transpose", a sua não execução condiciona as células seguintes, resultando em erro.
